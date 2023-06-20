@@ -15,7 +15,6 @@ class ArtworkType extends AbstractType
             ->add('Title')
             ->add('Likes')
             ->add('Photo')
-            ->add('fk_User')
             ->add('artists')
         ;
     }

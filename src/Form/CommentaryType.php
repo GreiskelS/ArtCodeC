@@ -14,7 +14,7 @@ class CommentaryType extends AbstractType
         $builder
             ->add('Commentary')
             ->add('Date')
-            ->add('fk_User')
+   
         ;
     }
 
